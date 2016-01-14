@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<note xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="note.xsd">
+    <to>YIN</to>
+    <from>ME</from>
+    <heading>Secret</heading>
+    <body>MISS</body>
+</note>
